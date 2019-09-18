@@ -72,7 +72,7 @@ public class CollegeStudentData {
 /*
 outputs :
 
-Nama		Alamat		Umur	JK		Hobi						Ipk
+Nama		Alamat		UmurJK		Hobi						Ipk
 
 Ahmad		Lombok		19		L		[Ngaji, Ngopi, Ngoding]		3.75		
 Novita		Jawa		18		W		[Ngoding, Baca, Ngaji]		4.00		
