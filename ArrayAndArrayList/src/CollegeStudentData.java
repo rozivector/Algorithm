@@ -68,3 +68,15 @@ public class CollegeStudentData {
         }
     }
 }
+
+/*
+outputs :
+
+Nama		Alamat		Umur	JK		Hobi						Ipk
+
+Ahmad		Lombok		19		L		[Ngaji, Ngopi, Ngoding]		3.75		
+Novita		Jawa		18		W		[Ngoding, Baca, Ngaji]		4.00		
+Fahri		GKidul		20		L		[Motor, Ngaji, Ngoding]		3.50		
+Nanang		Sulsel		21		L		[Ngoding, Ngoding, Ngoding]	3.80		
+indah		Papua		30		W		[Masak, Tidur, Ngoding]		3.35	
+*/
