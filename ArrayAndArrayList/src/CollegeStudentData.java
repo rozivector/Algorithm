@@ -53,7 +53,7 @@ public class CollegeStudentData {
          * [1]Alamat : Lombok
          * [2]Umur : 19 tahun
          * [3]JK : Laki-laki
-         * [4]Hobi : ngaji,ngopi,ngoding // minimal 3 hobi untuk satu orang
+         * [4]Hobi : ngaji,ngopi,ngoding // 3 hobi untuk satu orang
          * [5]ipk : 5.00*/
     }
 
